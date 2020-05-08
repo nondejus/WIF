@@ -1,5 +1,5 @@
-Bitcoin-addressGen-WIF
-======================
+# WIF
+=====
 
 
 depends on org.bouncycastle: bcprov-jdk15on-147.jar
